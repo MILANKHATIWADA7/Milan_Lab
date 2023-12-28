@@ -1,3 +1,3 @@
 # Milan_Lab
 SPM lab by Milan Khatiwada.
-This is my repo.
+This is my reposetary.
